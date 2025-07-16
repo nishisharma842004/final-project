@@ -36,7 +36,6 @@ A simple and interactive **Kanban Board** application built using **React**. It 
 ## ⚙️ Tech Stack
 
 * [React](https://reactjs.org/) – UI Library
-* [`@hello-pangea/dnd`](https://www.npmjs.com/package/@hello-pangea/dnd) – Drag-and-drop support
 * [`uuid`](https://www.npmjs.com/package/uuid) – Unique ID generation
 
 ---
